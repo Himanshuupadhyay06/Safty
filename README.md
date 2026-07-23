@@ -16,7 +16,7 @@ A responsive AI-themed web application built using **HTML**, **CSS**, and **Tail
 
 - HTML5
 - CSS3
-- Tailwind CSS
+- JavaScript
 - Font Awesome
 
 ## 📂 Project Structure
