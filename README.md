@@ -33,10 +33,9 @@ A responsive AI-themed web application built using **HTML**, **CSS**, and **Tail
 1. Clone the repository.
 2. Open `index.html` in your browser.
 
-## 👨‍💻 Team
+## 👨‍💻 Developer
 
-- **Team Leader:** Ashutosh Patel
-- **Developers:** Ashutosh Patel & Himanshu (MCA)
+ Himanshu Upadhyay (MCA)
 
 ## 📄 License
 
